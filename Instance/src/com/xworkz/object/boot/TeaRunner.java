@@ -5,9 +5,10 @@ import com.xworkz.object.create.Tea;
 public class TeaRunner {
 
 	public static void main(String[] args) {
-	   Tea tea1;
-	  // System.out.println(tea1);
+	   Tea tea1=null;
+	   System.out.println(tea1);
 	   tea1=new Tea();
+	   System.out.println(tea1);
 	   
 	 System.out.println(tea1.name);
 	 System.out.println(tea1.type);
