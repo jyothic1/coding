@@ -30,20 +30,21 @@ public class Mug {
 			System.out.println(color);
 		}
 		System.out.println(System.lineSeparator());
-		for(int details=0;details<sizes.length;details++)
+		for(int details1=0;details1<sizes.length;details1++)
 		{
-			char size=sizes[details];
+			char size=sizes[details1];
 			System.out.println(size);
 		}
 		System.out.println(System.lineSeparator());
-		for(int details=0;details<shapes.length;details++)
+		for(int details2=0;details2<shapes.length;details2++)
 		{
-			String size=shapes[details];
+			String size=shapes[details2];
 			System.out.println(size);
 		}
 		
 		
 	}
-	
-	
 }
+	
+	
+
