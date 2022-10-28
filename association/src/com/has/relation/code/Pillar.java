@@ -1,6 +1,7 @@
 package com.has.relation.code;
 
 import com.has.relation.constant.PillarShape;
+import com.has.relation.custom.*;
 
 public class Pillar {
  public long no;
