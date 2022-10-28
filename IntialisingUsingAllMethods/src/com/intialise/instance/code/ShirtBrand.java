@@ -29,11 +29,11 @@ public class ShirtBrand {
 		System.out.println(price);
 		System.out.println(clothType);
 		System.out.println(brands);
-		System.out.println(ShirtBrands.PARK_AVENUE.ordinal());
-		System.out.println(ShirtBrands.JOHN_PLAYERS.noOfPieces);
-		System.out.println(ShirtBrands.JOHN_PLAYERS.website);
-		System.out.println(ShirtBrands.ALLEN_SOLLY.noOfPieces);
-		System.out.println(ShirtBrands.ALLEN_SOLLY.website);
+		System.out.println(brands.ordinal());
+		System.out.println(brands.noOfPieces);
+		System.out.println(brands.website);
+		System.out.println(brands.noOfPieces);
+		System.out.println(brands.website);
 		
 
 		
