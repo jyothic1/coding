@@ -1,4 +1,4 @@
-package com.has.relation.code;
+package com.has.relation.custom;
 
 public class PillarCompany {
 	public String name;
