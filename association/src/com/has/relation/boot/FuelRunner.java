@@ -1,4 +1,4 @@
-package com.has.relation.coding;
+package com.has.relation.boot;
 
 import com.has.relation.code.Fuel;
 import com.has.relation.constant.FuelType;
