@@ -1,7 +1,7 @@
 package com.smart.work.code;
 
 public class Sweater {
-private String color;
+ private String color;
 private String type;
 private String brand;
  void setColor(String color)
